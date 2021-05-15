@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_InnerClass__Interface/Abstract_InnerClass__Interface.iml" filepath="$PROJECT_DIR$/Abstract_InnerClass__Interface/Abstract_InnerClass__Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/Array_InbuiltLists_AutoboxingUnboxing.iml" filepath="$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/Array_InbuiltLists_AutoboxingUnboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/AutoboxingUnboxing/AutoboxingUnboxing.iml" filepath="$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/AutoboxingUnboxing/AutoboxingUnboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
