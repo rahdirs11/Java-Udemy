@@ -21,7 +21,7 @@ public class Album {
         return -1;
     }
 
-    public boolean addSong(String title, int duration) {
+    public boolean addSong(String title, double duration) {
         if (findSong(title) == -1) {
             songs.add(new Song(title, duration));
             return true;
