@@ -4,5 +4,9 @@ public class Main {
         phone.powerOn();
         phone.callPhone(123456);
         phone.answer();
+
+        phone = new MobilePhone(123456);
+        phone.callPhone(123456);
+        phone.answer();
     }
 }
