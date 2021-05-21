@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Array_InbuiltLists_AutoboxingUnboxing/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Sets_HashSets/Sets_HashSets.iml" filepath="$PROJECT_DIR$/Collections/Sets_HashSets/Sets_HashSets.iml" />
     </modules>
   </component>
 </project>
